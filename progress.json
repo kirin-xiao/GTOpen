@@ -1,0 +1,27 @@
+{
+ "format": "gtopen-leaf-values-progress",
+ "events": [
+  {
+   "date": "2026-11-06",
+   "contributor": "MatthewPDingle",
+   "jobs": 2,
+   "examples": 200,
+   "pr": 1
+  },
+  {
+   "date": "2026-11-07",
+   "contributor": "MatthewPDingle",
+   "jobs": 102,
+   "examples": 10200,
+   "pr": 2
+  }
+ ],
+ "total_examples": 10400,
+ "total_jobs": 104,
+ "contributors": {
+  "MatthewPDingle": 10400
+ },
+ "go_no_go_examples": 50000,
+ "goal_examples": 300000,
+ "updated": "2026-11-07T00:38:43+00:00"
+}
